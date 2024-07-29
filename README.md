@@ -1,2 +1,2 @@
-# Technical-Writing
-All-in-One git learning information for technical authors.
+# Introduction
+A much needed information for technical authors to work on Git and GitHub for Writers.
