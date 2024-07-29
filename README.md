@@ -1,1 +1,1 @@
-Useful information required for technical writers beginning to learn "Git" and "GitHub."
+Useful information for technical writers to get started on "Git" and "GitHub."
