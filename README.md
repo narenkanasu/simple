@@ -1,3 +1,1 @@
-# 
-Introduction
-Contains information to work on Git and GitHub for technical writers or authors.
+Useful information for technical writers to get started on "Git" and "GitHub."
